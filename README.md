@@ -20,10 +20,13 @@
   2. Make a hotkey. https://www.autohotkey.com/docs/Hotkeys.htm
 
 ## Problems/issues
- ### Antivirus {Feel free to add to this trouble-shootlist. :)}
+ ### Antivirus {Feel free to add to this trouble-shoot list. :)}
   #### Avast:
    - It will quarantine it.
-   - Add exception [of quarantine] to exe app, or ahk.
+   - Add exception [of quarantine] to exe app, or ahk. It will probably show up a pop up to confirm, or put an exception there.
+ 
+    We are not out of the woods yet though. 
+
    - Settings > General > Exceptions.
      - Add an Exception. 
      
@@ -33,5 +36,5 @@
                         * Warning: If it doesn't start from `C:\` it will not work. (For example, the `.\Desktop\` folder.)
             iii. Paste it, see if it works.
 
-### It struggles with launching or closing it.
+ ### It struggles with launching or closing it.
  - Adjust the sleep command in the ahk file. Then Compile it with ahk.
