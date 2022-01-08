@@ -3,6 +3,8 @@
 ## What is this?
  - You hate ads, so do I. Spotify disabled the ability to close the app when an ad is playing.
  - This is a simple program that restarts spotify on demand, when set up to your preferences.
+   - It restarts it in the background. That keeps it out of the way. You need the UI again, search it up in the start menu, or double click the status icon. 
+
  - There are some other apps that think this app is "suspicious". Such as an antivirus program. You will need to disable these superstitions, for it to work properly. 
  If you have a solution in your antivirus program, that you would like to share the instructions for, feel free to contribute! Helps everyone else here.
 
